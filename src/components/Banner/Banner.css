@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+.banner{
+    display: flex;
+    
+    color:white;
+    margin-top: 25px !important;
+    padding: 11px
+
+}
+.text-1{
+    font-size: 15px;
+}
+h1{
+    font-size: 50px;
+}
+
+.text-yellow{
+    color: rgb(251, 222, 5);
+}
